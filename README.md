@@ -1,4 +1,4 @@
 #  Agenda 
-Esse código executa uma agenda capaz de: criar, armazenar, alterar, buscar, listar e excluir contatos de uma agenda.
-Os dados são armazenados em um arquivo txt
-Todo o código foi feito em python 
+Esse código executa é capaz de: criar, armazernar, listar, buscar, alterar e excluir um contato na agenda.
+Os dados são armazenados em um arquivo txt.
+Todo o programa foi criado em python, basta executar o arquivo agenda para rodar o projeto.
